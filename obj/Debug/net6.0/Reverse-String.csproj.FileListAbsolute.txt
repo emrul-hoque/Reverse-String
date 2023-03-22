@@ -1,0 +1,15 @@
+E:\emrul\C#\repos\Reverse-String\bin\Debug\net6.0\Reverse-String.exe
+E:\emrul\C#\repos\Reverse-String\bin\Debug\net6.0\Reverse-String.deps.json
+E:\emrul\C#\repos\Reverse-String\bin\Debug\net6.0\Reverse-String.runtimeconfig.json
+E:\emrul\C#\repos\Reverse-String\bin\Debug\net6.0\Reverse-String.dll
+E:\emrul\C#\repos\Reverse-String\bin\Debug\net6.0\Reverse-String.pdb
+E:\emrul\C#\repos\Reverse-String\obj\Debug\net6.0\Reverse-String.csproj.AssemblyReference.cache
+E:\emrul\C#\repos\Reverse-String\obj\Debug\net6.0\Reverse-String.GeneratedMSBuildEditorConfig.editorconfig
+E:\emrul\C#\repos\Reverse-String\obj\Debug\net6.0\Reverse-String.AssemblyInfoInputs.cache
+E:\emrul\C#\repos\Reverse-String\obj\Debug\net6.0\Reverse-String.AssemblyInfo.cs
+E:\emrul\C#\repos\Reverse-String\obj\Debug\net6.0\Reverse-String.csproj.CoreCompileInputs.cache
+E:\emrul\C#\repos\Reverse-String\obj\Debug\net6.0\Reverse-String.dll
+E:\emrul\C#\repos\Reverse-String\obj\Debug\net6.0\refint\Reverse-String.dll
+E:\emrul\C#\repos\Reverse-String\obj\Debug\net6.0\Reverse-String.pdb
+E:\emrul\C#\repos\Reverse-String\obj\Debug\net6.0\Reverse-String.genruntimeconfig.cache
+E:\emrul\C#\repos\Reverse-String\obj\Debug\net6.0\ref\Reverse-String.dll
